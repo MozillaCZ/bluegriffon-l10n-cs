@@ -45,7 +45,7 @@
 <!ENTITY newWizardMenu.label              "Nový průvodce">
 
 <!ENTITY editMenu.label                   "Upravit">
-<!ENTITY editMenu.accesskey               "u">
+<!ENTITY editMenu.accesskey               "a">
 
 <!ENTITY viewMenu.label                   "Vzhled">
 <!ENTITY viewMenu.accesskey               "h">
@@ -53,12 +53,12 @@
 <!ENTITY customizeToolbar.accesskey       "p">
 
 <!ENTITY insertMenu.label                 "Vložit">
-<!ENTITY insertMenu.accesskey             "v">
+<!ENTITY insertMenu.accesskey             "l">
 
 <!ENTITY formatMenu.label                 "Formát">
 <!ENTITY formatMenu.accesskey             "f">
 <!ENTITY spanCmd.label "Span">
-<!ENTITY spanCmd.accesskey "n">
+<!ENTITY spanCmd.accesskey "a">
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Styl textu">
 <!ENTITY formatstylemenu.accesskey "s">
@@ -70,7 +70,7 @@
 <!ENTITY styleitalic.keybinding "u">
 <!ENTITY styleUnderlineCmd.label "Podtržené">
 <!ENTITY styleunderline.accesskey "p">
-<!ENTITY styleUnderline.key "p">
+<!ENTITY styleUnderline.key "u">
 <!ENTITY styleStrikeThruCmd.label "Přeškrtnuté">
 <!ENTITY stylestrikethru.accesskey "e">
 <!ENTITY styleSuperscriptCmd.label "Horní index">
@@ -83,14 +83,14 @@
 <!ENTITY styleEm.accesskey "d">
 <!ENTITY styleEm.key "d">
 <!ENTITY styleStrong.label "Silnější důraz">
-<!ENTITY styleStrong.accesskey "s">
-<!ENTITY styleStrong.key "s">
+<!ENTITY styleStrong.accesskey "r">
+<!ENTITY styleStrong.key "r">
 <!ENTITY styleCite.label "Citace">
 <!ENTITY styleCite.accesskey "c">
 <!ENTITY styleAbbr.label "Zkratka">
 <!ENTITY styleAbbr.accesskey "z">
 <!ENTITY styleAcronym.label "Akronym">
-<!ENTITY styleAcronym.accesskey "r">
+<!ENTITY styleAcronym.accesskey "o">
 <!ENTITY styleCode.label "Kód">
 <!ENTITY styleCode.accesskey "k">
 <!ENTITY styleCode.key "k">
@@ -286,25 +286,25 @@
 
 <!ENTITY saveCmd.label "Uložit">
 <!ENTITY saveToolbarCmd.tooltip "Uložit soubor do lokálního umístění">
-<!ENTITY filesave.key "U">
+<!ENTITY filesave.key "S">
 <!ENTITY saveAsCmd.label "Uložit jako...">
-<!ENTITY filesaveas.key "l">
+<!ENTITY filesaveas.key "s">
 
-<!ENTITY undoCmd.label "Vrátit zpět">
-<!ENTITY undoCmd.accesskey "V">
+<!ENTITY undoCmd.label "Zpět">
+<!ENTITY undoCmd.accesskey "Z">
 <!ENTITY redoCmd.label "Znovu">
-<!ENTITY redoCmd.accesskey "Z">
+<!ENTITY redoCmd.accesskey "o">
 
 <!ENTITY cutCmd.label "Vyjmout">
 <!ENTITY cutCmd.accesskey "y">
 <!ENTITY copyCmd.label "Kopírovat">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Vložit">
-<!ENTITY pasteCmd.accesskey "V">
+<!ENTITY pasteCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Smazat">
-<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY deleteCmd.accesskey "m">
 <!ENTITY selectAllCmd.label "Vybrat vše">
-<!ENTITY selectAllCmd.accesskey "b">
+<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY copyHTMLCodeCmd.label "Kopírovat vybranou HTML značku">
 <!ENTITY copyHTMLCodeCmd.accesskey "H">
 <!ENTITY copyHTMLCode.label "Kopírovat HTML značku tohoto elementu">
@@ -379,7 +379,7 @@
 <!ENTITY tablemenu.accesskey                 "T">
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label               "Vybrat">
-<!ENTITY tableselectmenu.accesskey           "V">
+<!ENTITY tableselectmenu.accesskey           "y">
 
 <!ENTITY tableSelectMenu2.label              "Výběr tabulky">
 <!ENTITY tableInsertMenu2.label              "Vložení tabulky">
@@ -387,7 +387,7 @@
 
 <!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label               "Vložit">
-<!ENTITY tableinsertmenu.accesskey           "V">
+<!ENTITY tableinsertmenu.accesskey           "l">
 <!ENTITY tableTable.label                    "Tabulka">
 <!ENTITY tabletable.accesskey                "T">
 <!ENTITY tableRow.label                      "Řádek">
@@ -408,7 +408,7 @@
 <!ENTITY tableCells.label                    "Buňka(y)">
 <!ENTITY tablecell.accesskey                 "b">
 <!ENTITY tableCellContents.label             "Obsah buňky">
-<!ENTITY tablecellcontents.accesskey         "o">
+<!ENTITY tablecellcontents.accesskey         "s">
 <!ENTITY tableAllCells.label                 "Všechny buňky">
 <!ENTITY tableCellBefore.label               "Buňka před">
 <!ENTITY tableallcells.accesskey             "v">
@@ -417,7 +417,7 @@
 <!ENTITY tablecellafter.accesskey            "z">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label               "Smazat">
-<!ENTITY tabledeletemenu.accesskey           "S">
+<!ENTITY tabledeletemenu.accesskey           "m">
 
 <!ENTITY tableFix.label                      "Opravit Layout tabulky">
 <!ENTITY tablefix.accesskey                  "o">
@@ -431,7 +431,7 @@
 <!ENTITY tableSplitCell.label                "Rozdělit buňku">
 <!ENTITY tablesplitcell.accesskey            "l">
 <!ENTITY convertToTable.label                "Vytvořit tabulku z výběru">
-<!ENTITY converttotable.accesskey            "V">
+<!ENTITY converttotable.accesskey            "t">
 <!ENTITY tableProperties.label               "Vlastnosti tabulky…">
 <!ENTITY tableProperties.accesskey           "o">
 
@@ -444,7 +444,7 @@
 <!ENTITY pageProperties.label "Vlastnosti stránky">
 
 <!-- FIND AND REPLACE BARS -->
-<!ENTITY replaceAll.button "Nahradti vše">
+<!ENTITY replaceAll.button "Nahradit vše">
 <!ENTITY replace.button "Nahradit">
 <!ENTITY replaceAndFind.button "Nahradit a najít další">
 <!ENTITY replace.label "Nahradit čím:">
@@ -456,7 +456,7 @@
 <!ENTITY findCmd.label "Najít">
 <!ENTITY replaceCmd.label "Nahradit">
 <!ENTITY findCmd.key "f">
-<!ENTITY findCmd.accesskey "N">
+<!ENTITY findCmd.accesskey "j">
 <!ENTITY replaceCmd.key "r">
 <!ENTITY replaceCmd.accesskey "r">
 
@@ -474,6 +474,6 @@
 <!ENTITY theme.label "Vzhled">
 
 <!ENTITY removeAllStyles.label "Odstranit všechny styly textu">
-<!ENTITY removeAllStyles.accesskey "d">
+<!ENTITY removeAllStyles.accesskey "s">
 <!ENTITY removeAllLinks.label "Odstranit všechny odkazy">
-<!ENTITY removeAllLinks.accesskey "s">
+<!ENTITY removeAllLinks.accesskey "i">
