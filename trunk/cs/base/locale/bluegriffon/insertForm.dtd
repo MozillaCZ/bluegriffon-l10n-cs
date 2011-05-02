@@ -11,7 +11,7 @@
 <!ENTITY method.label "Metoda:">
 
 <!ENTITY validation.label "Ověření:">
-<!ENTITY novalidate.label "Žádné oěření během odeslání formuláře">
+<!ENTITY novalidate.label "Žádné ověření během odeslání formuláře">
 
 <!ENTITY target.label "Cíl:">
 

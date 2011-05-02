@@ -7,7 +7,7 @@
 <!ENTITY source.label "Video">
 <!ENTITY selectFile.label "Vyberte soubor">
 <!ENTITY relativeUrl.label "Převést URL na relativní vůči umístění stránky">
-<!ENTITY poster.tab "Plakát">
+<!ENTITY poster.tab "Náhled">
 
 <!ENTITY videoControls.label "Zobrazit ovládání videa">
 <!ENTITY preload.label "Přednačíst:">
@@ -20,5 +20,5 @@
 <!ENTITY videoFileLocation.label "Umístění video souboru:">
 <!ENTITY posterFileLocation.label "Umístění souboru plakátu:">
 
-<!ENTITY useCurrentFrameAsPoster.label "Použít aktuální snímek jako plakát">
-<!ENTITY saveAsFile.label "Uložit plakát jako PNG soubor">
+<!ENTITY useCurrentFrameAsPoster.label "Použít aktuální snímek jako náhled">
+<!ENTITY saveAsFile.label "Uložit náhled jako PNG soubor">

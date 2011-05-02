@@ -32,13 +32,13 @@
 <!ENTITY disabled.label "Zakázaný">
 <!ENTITY placeholder.label "Rezervované místo:">
 <!ENTITY mutability.label "Nestálost:">
-<!ENTITY readonly.label "Element pouze ke čtení">
+<!ENTITY readonly.label "Pouze ke čtení">
 <!ENTITY size.label "Velikost:">
 <!ENTITY maxlength.label "Max. délka:">
 <!ENTITY min.label "Min. hodnota:">
 <!ENTITY max.label "Max. hodnota:">
 <!ENTITY step.label "Krok:">
-<!ENTITY checked.label "Element je vybraný">
+<!ENTITY checked.label "Vybráno">
 <!ENTITY src.label "Zdroj obrázku:">
 <!ENTITY selectFile.label "Vybrat soubor">
 <!ENTITY width.label "Šířka:">
@@ -62,5 +62,5 @@
 <!ENTITY novalidate.label "Neověřovat formulář">
 <!ENTITY target.label "Cíl:">
 <!ENTITY required.label "Požadováno:">
-<!ENTITY isRequired.label "Element je požadován">
+<!ENTITY isRequired.label "Požadováno">
 <!ENTITY form.label "Forma:">

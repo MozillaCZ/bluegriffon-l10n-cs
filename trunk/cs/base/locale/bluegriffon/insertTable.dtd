@@ -13,7 +13,7 @@
 <!ENTITY onlyHeaderCells.label "Pouze buňky záhlaví">
 <!ENTITY rowsInFooter.label "Řádků v zápatí:">
 
-<!ENTITY layout.label "Layout">
+<!ENTITY layout.label "Rozvržení">
 <!ENTITY border.label "Ohraničení:">
 <!ENTITY pixels.label "pixelů">
 <!ENTITY cellSpacing.label "Vnější okraj buněk:">
