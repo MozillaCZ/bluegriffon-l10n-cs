@@ -1,11 +1,11 @@
-<!ENTITY aboutDialog.title      "O &brandFullName;">
+<!ENTITY aboutDialog.title      "O aplikaci &brandFullName;">
 <!ENTITY copyright              "Autoři">
-<!ENTITY aboutLink              "&lt; O &brandFullName;">
+<!ENTITY aboutLink              "&lt; O aplikaci &brandFullName;">
 <!ENTITY aboutVersion           "verze">
-<!ENTITY copyrightText          "&#169;1998-2011 Disruptive Innovations a Přispěvatelé. Všechna práva vyhrazena.">
+<!ENTITY copyrightText          "&#169;1998-2011 Disruptive Innovations a přispěvatelé. Všechna práva vyhrazena.">
 <!ENTITY cmdClose.macKey        "W">
 <!ENTITY codeName               "Codename">
 
-<!ENTITY aboutTab.label         "O">
-<!ENTITY creditsTab.label       "Licence a Autoři">
+<!ENTITY aboutTab.label         "O aplikaci">
+<!ENTITY creditsTab.label       "Licence a autoři">
 <!ENTITY buildConfigTab.label   "Sestavení (build)">

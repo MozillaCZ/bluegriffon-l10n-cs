@@ -15,7 +15,7 @@
 <!ENTITY autofocus.label "Autozaostření:">
 <!ENTITY focusOnPageLoad.label "Jakmile je stránka načtena">
 <!ENTITY required.label "Požadováno:">
-<!ENTITY isRequired.label "Element je požadován">
+<!ENTITY isRequired.label "Požadováno">
 
 <!ENTITY parameters.label "Parametry">
 
