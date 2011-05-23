@@ -477,3 +477,6 @@
 <!ENTITY removeAllStyles.accesskey "s">
 <!ENTITY removeAllLinks.label "Odstranit všechny odkazy">
 <!ENTITY removeAllLinks.accesskey "i">
+
+<!ENTITY html5Element.label "HTML 5 Element">
+<!ENTITY addons.label "Add-ons">
