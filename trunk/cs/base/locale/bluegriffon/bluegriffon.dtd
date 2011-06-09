@@ -368,7 +368,7 @@
 
 <!ENTITY spellCheck.label "Kontrola pravopisu">
 <!ENTITY spellCheck.accesskey "p">
-<!ENTITY dictionary.label "Slovnk">
+<!ENTITY dictionary.label "Slovník">
 <!ENTITY addToDictionary "Přidat do slovníku">
 <!ENTITY ignoreWord.label "Ignorovat slovo">
 
@@ -429,7 +429,7 @@
 <!ENTITY tableJoinCells.label                "Spojit vybrané buňky">
 <!ENTITY tablejoincells.accesskey            "j">
 <!ENTITY tableSplitCell.label                "Rozdělit buňku">
-<!ENTITY tablesplitcell.accesskey            "l">
+<!ENTITY tablesplitcell.accesskey            "d">
 <!ENTITY convertToTable.label                "Vytvořit tabulku z výběru">
 <!ENTITY converttotable.accesskey            "t">
 <!ENTITY tableProperties.label               "Vlastnosti tabulky…">
@@ -478,5 +478,5 @@
 <!ENTITY removeAllLinks.label "Odstranit všechny odkazy">
 <!ENTITY removeAllLinks.accesskey "i">
 
-<!ENTITY html5Element.label "HTML 5 Element">
-<!ENTITY addonsMenu.label "Add-ons">
+<!ENTITY html5Element.label "HTML 5 značka">
+<!ENTITY addonsMenu.label "Doplňky">
