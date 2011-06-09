@@ -3,7 +3,7 @@
 <!ENTITY prefixPrompt.label "Vložit prefix pro ID a třídy (class):">
 <!ENTITY iDecide.radio "Ručně">
 <!ENTITY iDecide.desc "Nech mne rozhodnout">
-<!ENTITY cssPolicy.caption "CSS metoda">
+<!ENTITY cssPolicy.caption "CSS">
 
 <!ENTITY browserSupport.caption "Podpora prohlížečů">
 <!ENTITY gecko.label "Prohlížeče založené na Gecko (Firefox, Camino, ...)">

@@ -46,7 +46,7 @@
 <!ENTITY list.label "Seznam:">
 <!ENTITY choices.label "Možnosti:">
 <!ENTITY multiple.label "Povolit více hodnot">
-<!ENTITY pattern.label "Regulérní výraz:">
+<!ENTITY pattern.label "Regulární výraz:">
 <!ENTITY alt.label "Alternativní text:">
 <!ENTITY autocomplete.label "Autovyplnění:">
 <!ENTITY on.label "Zap.">
