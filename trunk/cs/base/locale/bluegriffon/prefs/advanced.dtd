@@ -10,3 +10,6 @@
 
 <!ENTITY advancedConfig.caption "Rozšířená nastavení">
 <!ENTITY configEditor.label "Konfigurační editor">
+
+<!ENTITY preview.caption "Preview">
+<!ENTITY resetPreviewers.label "Reset external browser's settings">
