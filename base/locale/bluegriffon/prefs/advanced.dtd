@@ -8,8 +8,8 @@
 <!ENTITY configureNetwork.label "Konfigurovat připojení aplikace BlueGriffon k Internetu">
 <!ENTITY parameters.label "Nastavení připojení...">
 
-<!ENTITY advancedConfig.caption "Rozšířená nastavení">
-<!ENTITY configEditor.label "Konfigurační editor">
+<!ENTITY advancedConfig.caption "Rozšířená konfigurace">
+<!ENTITY configEditor.label "Editor předvoleb">
 
-<!ENTITY preview.caption "Preview">
-<!ENTITY resetPreviewers.label "Reset external browser's settings">
+<!ENTITY preview.caption "Náhled">
+<!ENTITY resetPreviewers.label "Resetovat externí nastavení prohlížeče">
