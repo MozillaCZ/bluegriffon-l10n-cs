@@ -482,3 +482,9 @@
 <!ENTITY addonsMenu.label "Doplňky">
 
 <!ENTITY listProperties.label "Vlastnosti seznamu">
+
+<!ENTITY select.label "Select...">
+<!ENTITY parentElement.label "Parent Element">
+<!ENTITY firstChild.label "First Child">
+<!ENTITY nextSibling.label "Next Sibling">
+<!ENTITY previousSibling.label "Previous Sibling">
