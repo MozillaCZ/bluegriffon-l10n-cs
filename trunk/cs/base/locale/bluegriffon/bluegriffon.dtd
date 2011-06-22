@@ -483,8 +483,8 @@
 
 <!ENTITY listProperties.label "Vlastnosti seznamu">
 
-<!ENTITY select.label "Select...">
-<!ENTITY parentElement.label "Parent Element">
-<!ENTITY firstChild.label "First Child">
-<!ENTITY nextSibling.label "Next Sibling">
-<!ENTITY previousSibling.label "Previous Sibling">
+<!ENTITY select.label "Vybrat...">
+<!ENTITY parentElement.label "Nadřazený element">
+<!ENTITY firstChild.label "První podřazený">
+<!ENTITY nextSibling.label "Další stejné úrovně">
+<!ENTITY previousSibling.label "Předchozí stejné úrovně">
