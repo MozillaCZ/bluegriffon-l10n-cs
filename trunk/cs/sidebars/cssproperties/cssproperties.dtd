@@ -191,6 +191,10 @@
 <!ENTITY scrollOverlow.label "Zobrazit posuvníky">
 <!ENTITY autoOverlow.label "Automaticky">
 
+<!ENTITY textOverflow.label "Text Overflow:">
+<!ENTITY clipTextOverflow.label "Clip">
+<!ENTITY ellipsisTextOverflow.label "Ellipsis">
+
 <!ENTITY position.label "Umístění:">
 <!ENTITY staticPosition.label "Normální">
 <!ENTITY relativePosition.label "Relativní posun">
