@@ -191,9 +191,9 @@
 <!ENTITY scrollOverlow.label "Zobrazit posuvníky">
 <!ENTITY autoOverlow.label "Automaticky">
 
-<!ENTITY textOverflow.label "Text Overflow:">
-<!ENTITY clipTextOverflow.label "Clip">
-<!ENTITY ellipsisTextOverflow.label "Ellipsis">
+<!ENTITY textOverflow.label "Přetékání textu:">
+<!ENTITY clipTextOverflow.label "Zkrátit">
+<!ENTITY ellipsisTextOverflow.label "Vypustit">
 
 <!ENTITY position.label "Umístění:">
 <!ENTITY staticPosition.label "Normální">
