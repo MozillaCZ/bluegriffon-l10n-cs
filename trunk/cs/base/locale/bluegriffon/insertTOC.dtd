@@ -35,16 +35,16 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Window.title        "Table of Contents">
-<!ENTITY buildToc.label      "Build table of contents from:">
-<!ENTITY style.label         "Style:">
+<!ENTITY Window.title        "Tabulka obsahu">
+<!ENTITY buildToc.label      "Vytvořit tabulku obsahu z:">
+<!ENTITY style.label         "Styl:">
 <!ENTITY tag.label           "Tag:">
-<!ENTITY class.label         "Class:">
-<!ENTITY header1.label       "Level 1">
-<!ENTITY header2.label       "Level 2">
-<!ENTITY header3.label       "Level 3">
-<!ENTITY header4.label       "Level 4">
-<!ENTITY header5.label       "Level 5">
-<!ENTITY header6.label       "Level 6">
-<!ENTITY makeReadOnly.label  "Make the table of contents read-only">
-<!ENTITY orderedList.label   "Number all entries in the table of contents">
+<!ENTITY class.label         "Třída:">
+<!ENTITY header1.label       "Úroveň 1">
+<!ENTITY header2.label       "Úroveň 2">
+<!ENTITY header3.label       "Úroveň 3">
+<!ENTITY header4.label       "Úroveň 4">
+<!ENTITY header5.label       "Úroveň 5">
+<!ENTITY header6.label       "Úroveň 6">
+<!ENTITY makeReadOnly.label  "Vytvořit tabulku obsahu pouze pro čtení">
+<!ENTITY orderedList.label   "Očíslovat všechny položky tabulky obsahu">
