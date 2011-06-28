@@ -483,6 +483,8 @@
 
 <!ENTITY listProperties.label "Vlastnosti seznamu">
 
+<!ENTITY tableOfContents.label "Table of Contents">
+
 <!ENTITY select.label "Vybrat...">
 <!ENTITY parentElement.label "Nadřazený element">
 <!ENTITY firstChild.label "První podřazený">
