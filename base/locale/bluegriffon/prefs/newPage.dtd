@@ -17,8 +17,8 @@
 <!ENTITY defaultZoomFactor.label "Výchozí velikost zobrazení:">
 <!ENTITY zoom.label "Lupa">
 
-<!ENTITY autoIndent.label "Auto-indent">
-<!ENTITY wrap.label "Wrap long lines">
-<!ENTITY wrapColumn.label "when lines go beyond column">
-<!ENTITY noWrapForLanguages.label "Don't wrap documents in the following languages:">
-<!ENTITY langExclusionExample.label "(ex: ja-JP, zh-TW)">
+<!ENTITY autoIndent.label "Autom. odsazení">
+<!ENTITY wrap.label "Zalamovat dlouhé řádky">
+<!ENTITY wrapColumn.label "když řádky přesahují sloupec">
+<!ENTITY noWrapForLanguages.label "Nezalamovat dokumenty v následujících jazycích:">
+<!ENTITY langExclusionExample.label "(např.: ja-JP, zh-TW)">
