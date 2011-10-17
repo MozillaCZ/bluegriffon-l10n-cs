@@ -1,5 +1,5 @@
-<!ENTITY commandShortcutCol.label "Command">
-<!ENTITY shortcutShortcutCol.label "Shortcut">
+<!ENTITY commandShortcutCol.label "Příkaz">
+<!ENTITY shortcutShortcutCol.label "Zkratka">
 
-<!ENTITY menubar.label "Menubar">
-<!ENTITY toolbars.label "Toolbars">
+<!ENTITY menubar.label "Panel nabídky">
+<!ENTITY toolbars.label "Nástrojové panely">
