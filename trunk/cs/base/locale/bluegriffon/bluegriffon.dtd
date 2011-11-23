@@ -324,7 +324,7 @@
 <!ENTITY formatToolbar2.name "Formát (sekundární)">
 
 <!ENTITY wysiwygMode.label "WYSIWYG">
-<!ENTITY sourceMode.label "Zdroj">
+<!ENTITY sourceMode.label "zdroj">
 
 <!ENTITY closeTabCmd.label "Zavřít současný panel">
 
