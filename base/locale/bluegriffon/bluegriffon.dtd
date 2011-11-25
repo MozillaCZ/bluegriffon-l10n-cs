@@ -301,7 +301,7 @@
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Vložit">
 <!ENTITY pasteCmd.accesskey "l">
-<!ENTITY pasteNoFormatting.label "Paste without Formatting">
+<!ENTITY pasteNoFormatting.label "Vložit bez formátování">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY deleteCmd.label "Smazat">
 <!ENTITY deleteCmd.accesskey "m">
