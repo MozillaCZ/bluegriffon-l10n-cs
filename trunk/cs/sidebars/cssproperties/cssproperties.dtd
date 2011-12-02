@@ -448,8 +448,6 @@
 <!ENTITY showEmptyCells.label "zobrazit">
 <!ENTITY hideEmptyCells.label "skrýt">
 
-<!ENTITY hTransformOrigin.label "Horiz. začátek:">
-<!ENTITY vTransformOrigin.label "Vert. začátek:">
 <!ENTITY leftTransformOrigin.label "Vlevo">
 <!ENTITY centerTransformOrigin.label "Uprostřed">
 <!ENTITY rightTransformOrigin.label "Vpravo">
@@ -459,3 +457,16 @@
 <!ENTITY makeRelative.label "Použij relativní URL k dokumentu">
 
 <!ENTITY hoverState.label "při najetí na element">
+
+
+<!ENTITY perspective.label "Perspective 3D">
+<!ENTITY transformOrigin.label "Transforms Origin:">
+<!ENTITY perspectivOrigin.label "Perspective Origin:">
+<!ENTITY perspectiveDepth.label "Perspective Depth:">
+<!ENTITY transformStyle.label "Transforms Style:">
+<!ENTITY transformStyleFlat.label "Flat">
+<!ENTITY transformStyle3D.label "3D">
+<!ENTITY backfaceVisibility.label "Backface:">
+<!ENTITY backfaceVisibilityVisible.label "Visible">
+<!ENTITY backfaceVisibilityHidden.label "Hidden">
+<!ENTITY rotation3D.label "3D Rotation">
