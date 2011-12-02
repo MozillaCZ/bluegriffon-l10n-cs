@@ -459,14 +459,14 @@
 <!ENTITY hoverState.label "při najetí na element">
 
 
-<!ENTITY perspective.label "Perspective 3D">
-<!ENTITY transformOrigin.label "Transforms Origin:">
-<!ENTITY perspectivOrigin.label "Perspective Origin:">
-<!ENTITY perspectiveDepth.label "Perspective Depth:">
-<!ENTITY transformStyle.label "Transforms Style:">
-<!ENTITY transformStyleFlat.label "Flat">
+<!ENTITY perspective.label "3D perspektiva">
+<!ENTITY transformOrigin.label "Původ tranformace:">
+<!ENTITY perspectivOrigin.label "Původ pohledu:">
+<!ENTITY perspectiveDepth.label "Hloubka pohledu:">
+<!ENTITY transformStyle.label "Styl transformace:">
+<!ENTITY transformStyleFlat.label "Plochá">
 <!ENTITY transformStyle3D.label "3D">
-<!ENTITY backfaceVisibility.label "Backface:">
-<!ENTITY backfaceVisibilityVisible.label "Visible">
-<!ENTITY backfaceVisibilityHidden.label "Hidden">
-<!ENTITY rotation3D.label "3D Rotation">
+<!ENTITY backfaceVisibility.label "Podklad:">
+<!ENTITY backfaceVisibilityVisible.label "Viditelný">
+<!ENTITY backfaceVisibilityHidden.label "Skrytý">
+<!ENTITY rotation3D.label "3D rotace">
