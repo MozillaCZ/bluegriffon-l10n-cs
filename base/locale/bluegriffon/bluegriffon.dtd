@@ -477,3 +477,6 @@
 <!ENTITY nextSibling.label "Další stejné úrovně">
 <!ENTITY previousSibling.label "Předchozí stejné úrovně">
 <!ENTITY tableCaption.label "Nadpis tabulky">
+
+<!ENTITY lookForUpdates.label "Zkontrolovat aktualizace">
+
