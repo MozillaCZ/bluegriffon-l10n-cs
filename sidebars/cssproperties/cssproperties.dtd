@@ -176,9 +176,9 @@
 <!ENTITY tableCell.label "Buňka tabulky">
 
 <!ENTITY visibility.label "Viditelnost:">
-<!ENTITY visibleVisibility.label "viditelný">
-<!ENTITY hiddenVisibility.label "skrytý">
-<!ENTITY collapseVisibility.label "collapse">
+<!ENTITY visibleVisibility.label "viditelné">
+<!ENTITY hiddenVisibility.label "skryté">
+<!ENTITY collapseVisibility.label "zhroucené">
 
 <!ENTITY float.label "Obtíkání:">
 <!ENTITY leftFloat.label "Zprava">
