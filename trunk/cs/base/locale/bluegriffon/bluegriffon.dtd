@@ -261,7 +261,7 @@
 <!ENTITY outputToolbarCmd.label "Výstup">
 <!ENTITY outputToolbarCmd.key "u">
 
-<!ENTITY progressToolbarCmd.label "Progress">
+<!ENTITY progressToolbarCmd.label "Postup">
 <!ENTITY progressToolbarCmd.key "p">
 
 <!ENTITY meterToolbarCmd.label "Element postupu">

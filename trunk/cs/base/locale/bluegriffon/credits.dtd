@@ -12,10 +12,8 @@
 -->
 <!ENTITY credit.translation "<h3>Překlad do češtiny</h3><ul><li>Michal Stanke</li></ul>">
 
-<!ENTITY credit.translation "Lokalizace">
-
 <!ENTITY credit.visuals     "Hlavní designér">
-<!ENTITY credit.theme       "Design témat stylu">
+<!ENTITY credit.theme       "Design témat">
 <!ENTITY credit.brand       "Značka">
 <!ENTITY credit.web         "Webdesign">
 <!ENTITY credit.update      "Mozilla Update">
