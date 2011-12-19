@@ -11,7 +11,7 @@
 <!ENTITY presto.label "Opera">
 <!ENTITY trident.label "Internet Explorer">
 
-<!ENTITY cssColors.captions "CSS Colors">
-<!ENTITY outputCssColorNames.label "Always try to output CSS 3 color names">
-<!ENTITY rgbColors.label "Prefer rgb(r,v,b) values">
-<!ENTITY hexColors.label "Prefer #rrvvbb values">
+<!ENTITY cssColors.captions "CSS barvy">
+<!ENTITY outputCssColorNames.label "Vždy se pokusit o výstup názvů barev CSS 3">
+<!ENTITY rgbColors.label "Upřednostnit rgb(r,v,b) hodnoty">
+<!ENTITY hexColors.label "Upřednostnit #rrvvbb hodnoty">
