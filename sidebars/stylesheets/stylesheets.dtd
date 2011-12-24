@@ -12,5 +12,5 @@
 <!ENTITY up.tooltip "Posunout vybraný styl nahoru">
 
 <!ENTITY close.label "Zavřít">
-<!ENTITY editMenu.label                   "Upravit">
+<!ENTITY editMenu.label "Upravit">
 <!ENTITY styleCode.label "Kód">
