@@ -42,42 +42,42 @@
 ]>
 <rss version="0.91">
   <channel>
-    <title>&brandShortName; tips</title>
+    <title>&brandShortName; tipy</title>
     <link>http://bluegriffon.org/</link>
-    <description>&brandShortName; tip of the day Archive</description>
-    <language>en-us</language>
+    <description>&brandShortName; tip dne Archiv</description>
+    <language>cs</language>
   
     <item>
-      <title>…you can resize table with the mouse?</title>
+      <title>…můžete změnit velikost tabulky myší?</title>
       <description>Just show the rulers using View > Show/Hide > Rulers and
                    place the caret inside a table cell to see resizers appear.
       </description>
     </item>
 
     <item>
-      <title>…you can very easily customize a toolbar?</title>
-      <description>Just right-click on it…</description>
+      <title>…můžete si velmi snadno přizpůsobit nástroje a lišty?</title>
+      <description>Klikněte na ně pravým tlačítkem…</description>
     </item>
 
     <item>
-      <title>…you have direct access to the &brandShortName; community?</title>
-      <description>Just select the Help menu.</description>
+      <title>…můžete mít přímý přístup ke komunitě &brandShortName;?</title>
+      <description>Stačí otevřít nabídku Nápověda.</description>
     </item>
 
     <item>
-      <title>…&brandShortName; is cross-platform?</title>
-      <description>&brandShortName; exists on a wide variety of operating systems, including
-                   Windows, Mac OS X, many flavors of Linux, OS/2, …</description>
+      <title>…&brandShortName; je multi-platformní?</title>
+      <description>&brandShortName; je dostupný široký výběr operačních systémů, včetně
+                   Windows, Mac OS X, mnoho verzí Linux, OS/2, …</description>
     </item>
 
     <item>
-      <title>…you can create a new tab with a key combination?</title>
-      <description>Control+n (Command+n on Mac OS X) will create a new blank tab</description>
+      <title>…můžete otevřít nový panel klávesovou zkratkou?</title>
+      <description>Control+n (Command+n na Mac OS X) otevře nový prázdný panel.</description>
     </item>
 
     <item>
-      <title>…you can close the current tab with one key?</title>
-      <description>Control-w (Command-w on Mac OS X) will close the current tab.</description>
+      <title>…můžete zavřít současný panel jedním stiskem?</title>
+      <description>Control-w (Command-w na Mac OS X) zavře současný panel.</description>
     </item>
 
   </channel>

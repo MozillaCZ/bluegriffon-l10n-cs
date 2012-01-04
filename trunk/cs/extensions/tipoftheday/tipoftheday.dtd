@@ -36,9 +36,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY tipOfTheDayWindow.title    "Tip of the day">
-<!ENTITY questionBeginning.label    "Did you know that…">
-<!ENTITY startupCheckbox.label      "Show tips at startup">
-<!ENTITY nextTipButton.label        "Next">
-<!ENTITY previousTipButton.label    "Previous">
-<!ENTITY closeTipButton.label       "Close">
+<!ENTITY tipOfTheDayWindow.title    "Tip dne">
+<!ENTITY questionBeginning.label    "Věděli jste, že…">
+<!ENTITY startupCheckbox.label      "Zobrazovat tipy při spuštění">
+<!ENTITY nextTipButton.label        "Další">
+<!ENTITY previousTipButton.label    "Předchozí">
+<!ENTITY closeTipButton.label       "Zavřít">
