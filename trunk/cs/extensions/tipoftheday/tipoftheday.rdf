@@ -91,7 +91,7 @@
 
     <item>
       <title>…&brandShortName; umí snadno vložit jakýkoliv znak?</title>
-      <description>Použijte “Vložit > Znaky a symboly”.  Poté můžete vyhledat
+      <description>Použijte “Vložit > Znaky a symboly”. Poté můžete vyhledat
               jakýkoliv znak Unicode podle názvu nebo pomocí prohlížení.</description>
     </item>
 
@@ -126,15 +126,15 @@
 
     <item>
       <title>…&brandShortName; umožňuje používat externí kaskádové stylování?</title>
-      <description>To create one ready for use click “Panels > Stylesheets”.
-      Click the plus sign and select “Linked to the document”.</description>
+      <description>Pro jeho vytvoření přejděte do nabídky “Panels > Stylesheets”.
+      Klikněte na symbol plus a vyberte “Linked to the document”.</description>
     </item>
 
     <item>
-      <title>…&brandShortName; can manage stylesheets and complex selectors?</title>
-      <description>Using the CSS Pro Editor (a paid for add-on) you change the order of
-      and add titles and rel attribute to stylesheets and develop
-      complex CSS 2 and 3 selectors with advanced help.</description>
+      <title>…&brandShortName; umí spravovat kaskádové styly a complex selectors?</title>
+      <description>Pomocí placeného doplňku CSS Pro Editor můžete měnit pořadí
+      a přidávat atributy rel a titulky ke stylování a vytvářet complex
+      CSS 2 a 3 selectors s pokročilou nápovědou.</description>
     </item>
 
     <item>
@@ -144,29 +144,29 @@
     </item>
 
     <item>
-      <title>…attributes can be added to any element?</title>
-      <description>Open “Panels > DOM Explorer”. In wysiwyg view click in the
-      element, select use the Attributes tab and click the plus sign.
+      <title>…atributy mohou být přidány k jakémukoliv elementu?</title>
+      <description>Otevřete “Panely > DOM Explorer”. V zobrazení WYSIWYG klikněte
+      na element, vyberte ouško Atributy a klikněte na symbol plus.
       </description>
     </item>
 
     <item>
-      <title>…&brandShortName; can handle CSS3 properties?</title>
-      <description>Vendor prefixes will be added for browsers that need them.
+      <title>…&brandShortName; ovládá vlastnosti CSS3?</title>
+      <description>Potřebné prefixy budou doplněny pro prohlížeče, které je vyžadují.
       </description>
     </item>
 
     <item>
-      <title>…you can personalize keyboard shortcuts?</title>
-      <description>Any menu item can be allocated to your preferred key. Open
-      “Tools > Preferences > Keyboard Shortcuts”. Find and double-click the
-      command wanted. In the new window key a shortcut.
+      <title>…můžete přizpůsobovat klávesové zkratky?</title>
+      <description>Každá položka v nabídkách může mít přidruženu klávesovou zkratku.
+      Otevřete “Nástroje > Možnosti > Klávesové zkratky”. Najděte a poklepejte
+      na požadovanou položku. V novém okně zadejte zkratku.
       </description>
     </item>
 
     <item>
-      <title>…you can remove a class from an element?</title>
-      <description>Just select the element and in the Class drop down box re-apply the class.
+      <title>…můžete odstranit třídu (class) od elementu?</title>
+      <description>Jednoduše vyberte element a ve vyskakovacím boxu znovu vyberte třídu.
       </description>
     </item>
 
