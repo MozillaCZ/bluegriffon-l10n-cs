@@ -125,7 +125,7 @@
     </item>
 
     <item>
-      <title>…&brandShortName; allows you to use external stylesheets?</title>
+      <title>…&brandShortName; umožňuje používat externí kaskádové stylování?</title>
       <description>To create one ready for use click “Panels > Stylesheets”.
       Click the plus sign and select “Linked to the document”.</description>
     </item>
@@ -138,8 +138,8 @@
     </item>
 
     <item>
-      <title>…panels can be resized?</title>
-      <description>Drag the grab handle at the bottom right corner to the size needed.
+      <title>…můžete měnit velikost panelů?</title>
+      <description>chytněte pravý dolní roh a táhněte na potřebnou velikost.
       </description>
     </item>
 
