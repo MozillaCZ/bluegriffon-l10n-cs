@@ -14,3 +14,6 @@
 <!ENTITY parentTarget.label "nadřazeném rámu">
 <!ENTITY selfTarget.label "aktuálním rámu">
 <!ENTITY otherTarget.label "rámu s názvem...">
+
+<!ENTITY title.caption "Advisory Title">
+<!ENTITY title.label "Title:">
