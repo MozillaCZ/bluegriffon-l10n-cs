@@ -8,12 +8,12 @@
 <!ENTITY relativeUrl.label "Převést URL na relativní vůči umístění stránky">
 
 <!ENTITY windowTarget.label "Cílové okno">
-<!ENTITY openIn.label "Otevřít odkaz v:">
-<!ENTITY topTarget.label "stejném okně, bez rámů">
-<!ENTITY blankTarget.label "novém okně">
-<!ENTITY parentTarget.label "nadřazeném rámu">
-<!ENTITY selfTarget.label "aktuálním rámu">
-<!ENTITY otherTarget.label "rámu s názvem...">
+<!ENTITY openIn.label "Otevřít odkaz:">
+<!ENTITY topTarget.label "ve stejném okně, bez rámů">
+<!ENTITY blankTarget.label "v novém okně">
+<!ENTITY parentTarget.label "v nadřazeném rámu">
+<!ENTITY selfTarget.label "v aktuálním rámu">
+<!ENTITY otherTarget.label "v rámu s názvem...">
 
-<!ENTITY title.caption "Advisory Title">
-<!ENTITY title.label "Title:">
+<!ENTITY title.caption "Pomocný titulek">
+<!ENTITY title.label "Titulek:">
