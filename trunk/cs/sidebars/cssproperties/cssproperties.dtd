@@ -25,7 +25,7 @@
 <!ENTITY textDecoration.label "Dekorace:">
 <!ENTITY textDecorationUnderline.label "Podtržené">
 <!ENTITY textDecorationOverline.label "Nadtržené">
-<!ENTITY textDecorationNone.label "None">
+<!ENTITY textDecorationNone.label "Žádné">
 <!ENTITY textDecorationLinethrough.label "Přeškrtnuté">
 
 <!ENTITY textTransform.label "Písmena:">
