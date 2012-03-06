@@ -125,7 +125,7 @@
 <!ENTITY right180Sidebar.label "Vpravo 180px">
 <!ENTITY right240Sidebar.label "Vpravo 240px">
 <!ENTITY right300Sidebar.label "Vpravo 300px">
-<!ENTITY loremIpsum.label "Vložit 'lorem ipsum' falešný obsah">
+<!ENTITY loremIpsum.label "Vložit 'lorem ipsum' obsah">
 <!ENTITY loremIpsum.accesskey "l">
 <!ENTITY newRow.label "Nový řádek">
 <!ENTITY removeRow.label "Odebrat">
@@ -142,7 +142,7 @@
 <!ENTITY documentType.label "Typ dokumentu">
 <!ENTITY documentType.description "Jaký typ dokumentu chcete vytvořit?">
 
-<!ENTITY language.label "Jazyk dokumentue">
+<!ENTITY language.label "Jazyk dokumentu">
 <!ENTITY html.label "HTML 4">
 <!ENTITY xhtml.label "XHTML 1">
 <!ENTITY html5.label "HTML 5">

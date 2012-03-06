@@ -4,9 +4,9 @@
 <!ENTITY whiteTheme.label "Bílý">
 <!ENTITY requiresRestart.label "(Pro použití změn je nutný restart aplikace)">
 
-<!ENTITY serialization.label "Serialization">
+<!ENTITY serialization.label "Serializace">
 
-<!ENTITY forceLF.label "Force Unix-style carriage returns (LF)">
+<!ENTITY forceLF.label "Vynutit Unixové zalamování řádků (LF)">
 
 <!ENTITY specialChars.description      "Výstup následujících znaků jako entit:">
 <!-- ENTITY basicEncoding.label           "Only &amp; &lt; &gt; ' and non-breakable whitespace" -->
