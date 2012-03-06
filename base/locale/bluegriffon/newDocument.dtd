@@ -23,4 +23,4 @@
 <!ENTITY ltr.label "Zleva doprava">
 <!ENTITY rtl.label "Zprava doleva">
 
-<!ENTITY similarToCurrent.label 'Similar to current document'>
+<!ENTITY similarToCurrent.label "Podle současného dokumentu">
