@@ -3,3 +3,6 @@
 
 <!ENTITY defaultZoomFactor.label "Výchozí velikost zobrazení:">
 <!ENTITY zoom.label "Lupa">
+
+<!ENTITY editingFeatures.label "Editing features">
+<!ENTITY enableFloatingToolbar.label "Enable Floating Toolbar">
