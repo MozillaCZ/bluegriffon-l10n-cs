@@ -45,7 +45,7 @@
 <!ENTITY pageDescription.accesskey "P">
 <!ENTITY pageKeywords.label "Klíčová slova:">
 <!ENTITY pageKeywords.accesskey "K">
-<!ENTITY language.label "Jazyk:">
+<!ENTITY documentLanguage.label "Jazyk:">
 <!ENTITY language.accesskey "J">
 <!ENTITY charset.label "Znaková sada:">
 <!ENTITY charset.accesskey "Z">
