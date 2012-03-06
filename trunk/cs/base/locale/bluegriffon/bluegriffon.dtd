@@ -121,8 +121,8 @@
 
 <!ENTITY newMenu.label                    "Nový">
 <!ENTITY newToolbarCmd.tooltip            "Vytvořit novou stránku">
-<!ENTITY newTab.label                     "Stránka v novém panelu">
-<!ENTITY newWindow.label                  "Stránka v novém okně">
+<!ENTITY pageInNewTab.label                     "Stránka v novém panelu">
+<!ENTITY pageInNewWindow.label                  "Stránka v novém okně">
 <!ENTITY newOtherCmd.label                "Více možností...">
 
 <!ENTITY openMenu.label                   "Otevřít">
@@ -482,3 +482,5 @@
 
 <!ENTITY color.label "Popředí">
 <!ENTITY bgColor.label "Pozadí">
+
+<!ENTITY newWindow.label "Nové okno prohlížeče">
