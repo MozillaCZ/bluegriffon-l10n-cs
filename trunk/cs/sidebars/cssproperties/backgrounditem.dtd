@@ -10,7 +10,9 @@
 <!ENTITY backgroundSizeUserDefined.label "Vybrat délky">
 
 <!ENTITY backgroundRepeat.label "Opakování:">
-<!ENTITY backgroundRepeatRepeat.label "Opakovat v obou směrech">
+<!ENTITY backgroundRepeatX.label "Repeat on X axis:">
+<!ENTITY backgroundRepeatY.label "Repeat on Y axis:">
+<!ENTITY backgroundRepeatRepeat.label "Opakovat">
 <!ENTITY backgroundRepeatSpace.label "Opakovat s ořezem">
 <!ENTITY backgroundRepeatRound.label "Změnit velikost a opakovat">
 <!ENTITY backgroundRepeatNorepeat.label "Vůbec neopakovat">
