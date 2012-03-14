@@ -6,3 +6,8 @@
 
 <!ENTITY editingFeatures.label "Úpravy vlastností">
 <!ENTITY enableFloatingToolbar.label "Povolit plovoucí lištu">
+
+<!ENTITY showComments.label "Show HTML comments">
+<!ENTITY showPHP.label "Show PHP instructions">
+<!ENTITY showPI.label "Show other Processing Instructions">
+
