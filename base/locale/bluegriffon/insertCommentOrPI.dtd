@@ -1,8 +1,8 @@
-<!ENTITY window.title "Comments, PHP and Processing Instructions">
+<!ENTITY window.title "Komentáře, PHP a Instrukce pro zpracování">
 
-<!ENTITY comment.label "Comment">
+<!ENTITY comment.label "Komentář">
 <!ENTITY php.label "PHP">
-<!ENTITY pi.label "Processing Instruction">
+<!ENTITY pi.label "Instrukce pro zpracování">
 
-<!ENTITY target.label "Target:">
+<!ENTITY target.label "Cíl:">
 <!ENTITY data.label "Data:">
