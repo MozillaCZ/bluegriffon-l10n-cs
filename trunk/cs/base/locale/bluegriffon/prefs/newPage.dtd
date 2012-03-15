@@ -7,7 +7,7 @@
 <!ENTITY editingFeatures.label "Úpravy vlastností">
 <!ENTITY enableFloatingToolbar.label "Povolit plovoucí lištu">
 
-<!ENTITY showComments.label "Show HTML comments">
-<!ENTITY showPHP.label "Show PHP instructions">
-<!ENTITY showPI.label "Show other Processing Instructions">
+<!ENTITY showComments.label "Zobrazit HTML komentáře">
+<!ENTITY showPHP.label "Zobrazit PHP instrukce">
+<!ENTITY showPI.label "Zobrazit ostatní Instrukce pro zpracování">
 
