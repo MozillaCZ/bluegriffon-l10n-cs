@@ -12,6 +12,6 @@
 <!ENTITY showPI.label "Zobrazit ostatní Instrukce pro zpracování">
 
 
-<!ENTITY linksManagement.label "Copy/paste management of hyperlinks:">
-<!ENTITY preserveRelative.label "Preserve relative URLs">
-<!ENTITY makeAbsolute.label "Make all URLs absolute">
+<!ENTITY linksManagement.label "Kopírovat/vložit správu odkazů:">
+<!ENTITY preserveRelative.label "Zachovat relativní adresy URL">
+<!ENTITY makeAbsolute.label "Převést všechny URL na absolutní">
