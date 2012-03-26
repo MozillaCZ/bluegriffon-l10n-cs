@@ -11,3 +11,7 @@
 <!ENTITY showPHP.label "Zobrazit PHP instrukce">
 <!ENTITY showPI.label "Zobrazit ostatní Instrukce pro zpracování">
 
+
+<!ENTITY linksManagement.label "Copy/paste management of hyperlinks:">
+<!ENTITY preserveRelative.label "Preserve relative URLs">
+<!ENTITY makeAbsolute.label "Make all URLs absolute">
