@@ -11,7 +11,9 @@
 <!ENTITY showPHP.label "Zobrazit PHP instrukce">
 <!ENTITY showPI.label "Zobrazit ostatní Instrukce pro zpracování">
 
-
 <!ENTITY linksManagement.label "Kopírovat/vložit správu odkazů:">
 <!ENTITY preserveRelative.label "Zachovat relativní adresy URL">
 <!ENTITY makeAbsolute.label "Převést všechny URL na absolutní">
+
+<!ENTITY returnKey.label "Klávesa Enter (v odstavci) vytvoří vždy nový odstavec">
+<!ENTITY keepBackup.label "Create a backup before saving a file (*.bak)">

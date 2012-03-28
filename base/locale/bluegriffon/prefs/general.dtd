@@ -5,8 +5,6 @@
 
 <!ENTITY structureBar.caption "Lišta struktury">
 
-<!ENTITY returnKey.caption "Chování klávesy Enter">
-<!ENTITY returnKey.label "Klávesa Enter (v odstavci) vytvoří vždy nový odstavec">
 
 <!ENTITY showIDs.label "Zobrazit ID">
 <!ENTITY showClasses.label "Zobrazit třídy (class)">
