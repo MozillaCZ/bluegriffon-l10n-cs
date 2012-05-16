@@ -1,8 +1,5 @@
 <!ENTITY source.label "Zobrazení zdroje">
 <!ENTITY theme.label "Styl:">
-<!ENTITY darkTheme.label "Temný">
-<!ENTITY whiteTheme.label "Bílý">
-<!ENTITY requiresRestart.label "(Pro použití změn je nutný restart aplikace)">
 
 <!ENTITY serialization.label "Serializace">
 
