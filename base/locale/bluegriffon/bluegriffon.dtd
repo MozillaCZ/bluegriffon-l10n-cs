@@ -368,6 +368,9 @@
 
 <!ENTITY allTagsMode.label "Mód všechny značky">
 
+<!ENTITY toggleViewMenu.label "Toggle view">
+<!ENTITY toggleViewMenu.accesskey "T">
+
 <!ENTITY spellCheck.label "Kontrola pravopisu">
 <!ENTITY spellCheck.accesskey "p">
 <!ENTITY dictionary.label "Slovník">
