@@ -368,8 +368,8 @@
 
 <!ENTITY allTagsMode.label "Mód všechny značky">
 
-<!ENTITY toggleViewMenu.label "Toggle view">
-<!ENTITY toggleViewMenu.accesskey "T">
+<!ENTITY toggleViewMenu.label "Přepnout zobrazení">
+<!ENTITY toggleViewMenu.accesskey "n">
 
 <!ENTITY spellCheck.label "Kontrola pravopisu">
 <!ENTITY spellCheck.accesskey "p">
