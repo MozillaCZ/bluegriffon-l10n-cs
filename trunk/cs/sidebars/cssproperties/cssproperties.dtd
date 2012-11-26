@@ -87,6 +87,7 @@
 
 <!ENTITY repeating.label "Opakování">
 
+<!ENTITY radius.label "Radius:">
 <!ENTITY angle.checkbox "Úhel:">
 <!ENTITY startingPoint.checkbox "Výchozí bod:">
 <!ENTITY horizOffset.checkbox "Horiz. posun:">
