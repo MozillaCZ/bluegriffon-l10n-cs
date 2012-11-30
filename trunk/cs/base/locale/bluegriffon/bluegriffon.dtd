@@ -131,7 +131,7 @@
 <!ENTITY openWindow.label                 "Otevřít v novém okně">
 <!ENTITY openPage.label                   "Otevřít">
 <!ENTITY openPage.accesskey               "o">
-<!ENTITY openFileCmd.label                "Otevřt soubor…">
+<!ENTITY openFileCmd.label                "Otevřít soubor…">
 
 <!ENTITY quit.label                       "Ukončit">
 <!ENTITY quit.accesskey                   "k">
