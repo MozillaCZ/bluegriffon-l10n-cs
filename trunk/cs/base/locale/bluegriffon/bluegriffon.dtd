@@ -495,3 +495,4 @@
 <!ENTITY targetPI.label "Cíl:">
 <!ENTITY dataPI.label "Data:">
 <!ENTITY commentOrPHPOrPI.label "Komentáře/PHP/Instrukce pro zpracování">
+<!ENTITY openLinkCmdInTab.label "Otevřít odkaz v novém panelu">
