@@ -2,3 +2,4 @@
 
 <!ENTITY warningMessage.description "Aktualizace BlueGriffonu je dostupná.">
 <!ENTITY download.button "Stáhnout akutalizaci">
+<!ENTITY dontAskAgain.label "Příště se již neptat">
