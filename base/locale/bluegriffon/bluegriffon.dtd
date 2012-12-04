@@ -496,3 +496,5 @@
 <!ENTITY dataPI.label "Data:">
 <!ENTITY commentOrPHPOrPI.label "Komentáře/PHP/Instrukce pro zpracování">
 <!ENTITY openLinkCmdInTab.label "Otevřít odkaz v novém panelu">
+<!ENTITY blockquoteToolbarCmd.label "Blockquote">
+<!ENTITY blockquoteToolbarCmd.tooltip "Encapsulate into a blockquote">
