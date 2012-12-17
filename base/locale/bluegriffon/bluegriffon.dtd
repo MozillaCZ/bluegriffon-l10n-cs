@@ -498,3 +498,4 @@
 <!ENTITY openLinkCmdInTab.label "Otevřít odkaz v novém panelu">
 <!ENTITY blockquoteToolbarCmd.label "Bloková citace">
 <!ENTITY blockquoteToolbarCmd.tooltip "Vloži jako blokovou citaci">
+<!ENTITY deckMenu.label "Deck">
