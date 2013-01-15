@@ -5,7 +5,6 @@
 <!ENTITY zoom.label "Lupa">
 
 <!ENTITY editingFeatures.label "Úpravy vlastností">
-<!ENTITY enableFloatingToolbar.label "Povolit plovoucí lištu">
 
 <!ENTITY showComments.label "Zobrazit HTML komentáře">
 <!ENTITY showPHP.label "Zobrazit PHP instrukce">
