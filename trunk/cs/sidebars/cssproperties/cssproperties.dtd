@@ -274,6 +274,7 @@
 <!ENTITY flexboxSectionHeader.label "Flexibilita">
 <!ENTITY enableFlexBox.label "Twnto element je flexibilní">
 <!ENTITY inlineBox.label "Vložený">
+<!ENTITY selfAlign.label "Self-alignment:">
 <!ENTITY boxAlign.label "Zarovnání:">
 <!ENTITY startBoxAlign.label "začátek">
 <!ENTITY centerBoxAlign.label "střed">
@@ -285,18 +286,15 @@
 <!ENTITY normalBoxDirection.label "normální">
 <!ENTITY reverseBoxDirection.label "obrácený">
 
-<!ENTITY boxFlex.label "Flexibilita:">
+<!ENTITY flexGrow.label "Flex grow factor:">
+<!ENTITY flexShrink.label "Flex shrink factor:">
+<!ENTITY flexBasis.label "Flex basis:">
 <!ENTITY boxOrdinalGroup.label "Běžné seskupení:">
 
 <!ENTITY boxOrientation.label "Orientace:">
 <!ENTITY horizontalBoxOrientation.label "horizontální">
 <!ENTITY verticalBoxOrientation.label "vertikální">
 
-<!ENTITY boxPack.label "Zarovnání:">
-<!ENTITY startBoxPack.label "začátek">
-<!ENTITY centerBoxPack.label "střed">
-<!ENTITY endBoxPack.label "konec">
-<!ENTITY justifyBoxPack.label "do bloku">
 
 <!ENTITY letterSpacing.label "Vzdálenost znaků:">
 <!ENTITY normalLetterSpacing.label "Normánlí">
@@ -472,3 +470,9 @@
 <!ENTITY backfaceVisibilityVisible.label "Viditelný">
 <!ENTITY backfaceVisibilityHidden.label "Skrytý">
 <!ENTITY rotation3D.label "3D rotace">
+
+<!ENTITY row.label                      "Řádek">
+<!ENTITY column.label                   "Sloupec">
+<!ENTITY justifyContent.label "Content justification:">
+<!ENTITY alignContent.label "Content alignment:">
+<!ENTITY autoBoxAlign.label "Automaticky">
