@@ -182,12 +182,12 @@
 <!ENTITY hiddenVisibility.label "skryté">
 <!ENTITY collapseVisibility.label "zhroucené">
 
-<!ENTITY float.label "Obtíkání:">
+<!ENTITY float.label "Obtékání:">
 <!ENTITY leftFloat.label "Zprava">
 <!ENTITY noneFloat.label "Žádné">
 <!ENTITY rightFloat.label "Zleva">
 
-<!ENTITY overflow.label "Přétékání:">
+<!ENTITY overflow.label "Přetékání:">
 <!ENTITY visibleOverlow.label "Viditelný">
 <!ENTITY hiddenOverlow.label "Skrýt">
 <!ENTITY scrollOverlow.label "Zobrazit posuvníky">
@@ -272,7 +272,7 @@
 <!ENTITY scale.label "Měřítko">
 
 <!ENTITY flexboxSectionHeader.label "Flexibilita">
-<!ENTITY enableFlexBox.label "Twnto element je flexibilní">
+<!ENTITY enableFlexBox.label "Tento element je flexibilní">
 <!ENTITY inlineBox.label "Vložený">
 <!ENTITY selfAlign.label "Self-alignment:">
 <!ENTITY boxAlign.label "Zarovnání:">
@@ -419,7 +419,7 @@
 <!ENTITY bidiOverrideUnicodeBidi.label "bidi-override">
 
 <!ENTITY orphans.label "Orphans:">
-<!ENTITY widows.label "Widows:">
+<!ENTITY widows.label "Okna:">
 <!ENTITY pageBreakAfter.label "Zalomení stránky po:">
 <!ENTITY pageBreakInside.label "Stránka se láme uvnitř:">
 <!ENTITY pageBreakBefore.label "Stránka se láme před:">
