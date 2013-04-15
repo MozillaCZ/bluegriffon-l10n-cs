@@ -13,3 +13,7 @@
 <!ENTITY findCmd.accesskey "j">
 <!ENTITY replaceCmd.key "r">
 <!ENTITY replaceCmd.accesskey "r">
+<!ENTITY findAgainCmd.label "Najít další">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.accesskey "t">
