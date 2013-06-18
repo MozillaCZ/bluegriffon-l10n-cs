@@ -98,12 +98,12 @@
     <item>
       <title>…&brandShortName; obsahuje kontrolu pravopisu?</title>
       <description>Klepnutím pravého tlačítka na slovo zobrazíte návrhy. Kontrolu zapnete
-                nebo vypnute v nabídce “Nástroje > Možnosti > Obecné” .</description>
+                nebo vypnuté v nabídce “Nástroje > Možnosti > Obecné” .</description>
     </item>
 
     <item>
       <title>…&brandShortName; umí spolehlivě vybrat element?</title>
-      <description>Jednoduše klepkněte na jeho název v liště struktury.</description>
+      <description>Jednoduše klepněte na jeho název v liště struktury.</description>
     </item>
 
     <item>
@@ -121,7 +121,7 @@
 
     <item>
       <title>…si můžete vybrat výchozí prohlížeč?</title>
-      <description>V nabídce “Nástroje > Možnosti > Rozšířené > Resetovat externí nastavení prohlížeče”. Při přístím procházení budete moci vybrat prohlížeč.</description>
+      <description>V nabídce “Nástroje > Možnosti > Rozšířené > Resetovat externí nastavení prohlížeče”. Při příštím procházení budete moci vybrat prohlížeč.</description>
     </item>
 
     <item>
@@ -146,7 +146,7 @@
     <item>
       <title>…atributy mohou být přidány k jakémukoliv elementu?</title>
       <description>Otevřete “Panely > DOM Explorer”. V zobrazení WYSIWYG klepněte
-      na element, vyberte ouško Atributy a klepkněte na symbol plus.
+      na element, vyberte ouško Atributy a klepněte na symbol plus.
       </description>
     </item>
 

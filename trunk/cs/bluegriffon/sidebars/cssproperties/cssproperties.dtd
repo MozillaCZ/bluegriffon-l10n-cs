@@ -105,7 +105,7 @@
 <!ENTITY twoColumns.label "Dva sloupce">
 <!ENTITY threeColumns.label "Tři sloupce">
 
-<!ENTITY columnWidth.label "Optimální šítka sloupce:">
+<!ENTITY columnWidth.label "Optimální šířka sloupce:">
 <!ENTITY automaticColumnWidth.label "Automaticky">
 
 <!ENTITY columnGap.label "Mezera mezi sloupci:">
@@ -170,10 +170,10 @@
 <!ENTITY inlineTable.label "Vložená tabulka">
 <!ENTITY tableHeaderGroup.label "Seskupení hlavy tabulky">
 <!ENTITY tableRowGroup.label "Seskupení řádku tabulky">
-<!ENTITY tableFooterGroup.label "Sesupení paty tabulky">
+<!ENTITY tableFooterGroup.label "Seskupení paty tabulky">
 <!ENTITY tableColumnGroup.label "Seskupení sloupce tabulky">
 <!ENTITY tableCaption.label "Nadpis tabulky">
-<!ENTITY tableRow.label "Řádek tebulky">
+<!ENTITY tableRow.label "Řádek tabulky">
 <!ENTITY tableColumn.label "Sloupec tabulky">
 <!ENTITY tableCell.label "Buňka tabulky">
 
@@ -297,7 +297,7 @@
 
 
 <!ENTITY letterSpacing.label "Vzdálenost znaků:">
-<!ENTITY normalLetterSpacing.label "Normánlí">
+<!ENTITY normalLetterSpacing.label "Normální">
 
 <!ENTITY wordSpacing.label "Vzdálenost slov:">
 <!ENTITY normalWordSpacing.label "Normální">
@@ -403,9 +403,9 @@
 <!ENTITY eResizeCursor.label "Změna velikosti levého okraje">
 <!ENTITY neResizeCursor.label "Změna velikosti horního levého okraje">
 <!ENTITY nwResizeCursor.label "Změna velikosti horního pravého okraje">
-<!ENTITY nResizeCursor.label "Změna veliksoti horního okraje">
-<!ENTITY sResizeCursor.label "Změna veliksoti spodního okraje">
-<!ENTITY wResizeCursor.label "Změna veliksoti pravého okraje">
+<!ENTITY nResizeCursor.label "Změna velikosti horního okraje">
+<!ENTITY sResizeCursor.label "Změna velikosti spodního okraje">
+<!ENTITY wResizeCursor.label "Změna velikosti pravého okraje">
 <!ENTITY seResizeCursor.label "Změna velikosti spodního levého okraje">
 <!ENTITY swResizeCursor.label "Změna velikosti spodního pravého okraje">
 <!ENTITY textCursor.label "Označení textu">
@@ -460,7 +460,7 @@
 
 
 <!ENTITY perspective.label "3D perspektiva">
-<!ENTITY transformOrigin.label "Původ tranformace:">
+<!ENTITY transformOrigin.label "Původ transformace:">
 <!ENTITY perspectivOrigin.label "Původ pohledu:">
 <!ENTITY perspectiveDepth.label "Hloubka pohledu:">
 <!ENTITY transformStyle.label "Styl transformace:">

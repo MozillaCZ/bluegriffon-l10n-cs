@@ -43,7 +43,7 @@
 <!ENTITY chooseFile.label "Vybrat soubor...">
 <!ENTITY chooseFile.accesskey "V">
 
-<!ENTITY createIn.label "Vytořit v">
+<!ENTITY createIn.label "Vytvořit v">
 <!ENTITY inATab.label "Panelu">
 <!ENTITY inATab.accesskey "P">
 <!ENTITY inAWindow.label "Okně">
