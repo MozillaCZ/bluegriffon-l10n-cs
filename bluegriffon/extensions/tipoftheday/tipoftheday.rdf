@@ -97,18 +97,18 @@
 
     <item>
       <title>…&brandShortName; obsahuje kontrolu pravopisu?</title>
-      <description>Pravým kliknutím na slovo zobrazíte návrhy. Kontrolu zapnete
+      <description>Klepnutím pravého tlačítka na slovo zobrazíte návrhy. Kontrolu zapnete
                 nebo vypnute v nabídce “Nástroje > Možnosti > Obecné” .</description>
     </item>
 
     <item>
       <title>…&brandShortName; umí spolehlivě vybrat element?</title>
-      <description>Jednoduše klikněte na jeho název v liště struktury.</description>
+      <description>Jednoduše klepkněte na jeho název v liště struktury.</description>
     </item>
 
     <item>
       <title>…můžete přesouvat elementy v dokumentu pomocí myši?</title>
-      <description>Nejprve vyberte element kliknutím a pak jej přesuňte, kam je potřeba.
+      <description>Nejprve vyberte element klepnutím a pak jej přesuňte, kam je potřeba.
       </description>
     </item>
 
@@ -127,7 +127,7 @@
     <item>
       <title>…&brandShortName; umožňuje používat externí kaskádové stylování?</title>
       <description>Pro jeho vytvoření přejděte do nabídky “Panels > Stylesheets”.
-      Klikněte na symbol plus a vyberte “Linked to the document”.</description>
+      Klepněte na symbol plus a vyberte “Linked to the document”.</description>
     </item>
 
     <item>
@@ -145,8 +145,8 @@
 
     <item>
       <title>…atributy mohou být přidány k jakémukoliv elementu?</title>
-      <description>Otevřete “Panely > DOM Explorer”. V zobrazení WYSIWYG klikněte
-      na element, vyberte ouško Atributy a klikněte na symbol plus.
+      <description>Otevřete “Panely > DOM Explorer”. V zobrazení WYSIWYG klepněte
+      na element, vyberte ouško Atributy a klepkněte na symbol plus.
       </description>
     </item>
 
