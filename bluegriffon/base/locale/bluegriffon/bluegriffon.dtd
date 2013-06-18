@@ -497,7 +497,7 @@
 <!ENTITY commentOrPHPOrPI.label "Komentáře/PHP/Instrukce pro zpracování">
 <!ENTITY openLinkCmdInTab.label "Otevřít odkaz v novém panelu">
 <!ENTITY blockquoteToolbarCmd.label "Bloková citace">
-<!ENTITY blockquoteToolbarCmd.tooltip "Vloži jako blokovou citaci">
+<!ENTITY blockquoteToolbarCmd.tooltip "Vložit jako blokovou citaci">
 <!ENTITY deckMenu.label "Deck">
 <!ENTITY printSetupCmd.label "Vzhled stránky…">
 <!ENTITY printSetupCmd.accesskey "V">

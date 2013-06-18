@@ -1,5 +1,5 @@
 <!ENTITY fileHistory.caption "Nedávné soubory">
-<!ENTITY fileHistoryDepth.label "Maximální počet nadávných souborů v historii:">
+<!ENTITY fileHistoryDepth.label "Maximální počet nedávných souborů v historii:">
 <!ENTITY files.label "souborů">
 <!ENTITY restoreLastSession.label "Obnovit panely předchozí relace">
 <!ENTITY fileExtensions.label "Rozšíření souborů pro nové soubory">

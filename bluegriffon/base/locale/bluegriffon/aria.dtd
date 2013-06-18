@@ -7,23 +7,23 @@
 <!ENTITY applicationRole.label "Oblast určená jako webová aplikace na rozdíl od webového dokumentu">
 <!ENTITY articleRole.label "Část stránky tvořící samostatnou část dokumentu, stránky nebo webu">
 <!ENTITY bannerRole.label "Oblast, která obsahuje spíše obecný obsah stránky než konkrétní obsah">
-<!ENTITY buttonRole.label "Vstup, který umožňuje uživateli spuštit akci při klepnutí nebo stisknutí. Podívejte se také na odkaz">
+<!ENTITY buttonRole.label "Vstup, který umožňuje uživateli spustit akci při klepnutí nebo stisknutí. Podívejte se také na odkaz">
 <!ENTITY checkboxRole.label "Zaškrtnutelný vstup se třemi možnými hodnotami: true, false, nebo mixed">
 <!ENTITY columnheaderRole.label "Buňka obsahující záhlaví sloupce">
 <!ENTITY comboboxRole.label "Prezentace výběru; většinou odpovídá textovému poli, kam uživatelé mohou psát pro výběr volby, nebo vložení libovolného textu jako novou položku seznamu. Podívejte se také na listbox">
 <!ENTITY commandRole.label "Forma widgetu, který koná akci, ale nezískává vstupní data">
 <!ENTITY complementaryRole.label "Podpůrná část dokumentu navržena jako doplněk k hlavnímu obsahu na podobné úrovni v hierarchii DOM, ale která si uchová smysl i po oddělení od hlavního obsahu">
 <!ENTITY compositeRole.label "A widget that may contain navigable descendants or owned children">
-<!ENTITY contentinfoRole.label "Velká viditelná oblast obsahující infromace o nadřazeném dokumentu">
+<!ENTITY contentinfoRole.label "Velká viditelná oblast obsahující informace o nadřazeném dokumentu">
 <!ENTITY definitionRole.label "Definice pojmu nebo konceptu">
-<!ENTITY dialogRole.label "Dialog je okno aplikace, který je určen k přerušení současného zpracování žádosti, aby vyzval uživatele k zadání informací nebo reakce. Podívejte se také na dailog upozornění">
+<!ENTITY dialogRole.label "Dialog je okno aplikace, který je určen k přerušení současného zpracování žádosti, aby vyzval uživatele k zadání informací nebo reakce. Podívejte se také na dialog upozornění">
 <!ENTITY directoryRole.label "Seznam referencí členů skupiny, jako je statická tabulka">
 <!ENTITY documentRole.label "Oblast obsahující související informace, které jsou prohlášeny za obsah dokumentu, na rozdíl od webové aplikace">
 <!ENTITY formRole.label "Mezní oblast, která obsahuje soubor objektů, které spojuje k vytvoření formuláře. Podívejte se také na vyhledávání">
 <!ENTITY gridRole.label "Mřížka je interaktivní ovládání, které obsahuje buňky tabulkových dat uspořádaných v řádcích a sloupcích jako tabulka">
 <!ENTITY gridcellRole.label "Buňka v mřížce nebo stromu">
 <!ENTITY groupRole.label "Soubor objektů uživatelského rozhraní, které nejsou určeny k zahrnutí do shrnutí nebo tabulky obsahu prostřednictvím podpůrných technologií">
-<!ENTITY headingRole.label "Záhlaví pro část stránk">
+<!ENTITY headingRole.label "Záhlaví pro část stránky">
 <!ENTITY imgRole.label "Soubor prvků, které tvoří obrázek">
 <!ENTITY inputRole.label "Generický typ widgetu, který umožňuje uživatelský vstup">
 <!ENTITY landmarkRole.label "Oblast stránky určená jako orientační bod navigace">
@@ -31,7 +31,7 @@
 <!ENTITY listRole.label "Skupina neinteraktivního seznamu položek. Podívejte se také na listbox">
 <!ENTITY listboxRole.label "Widget, který umožňuje uživateli vybrat jednu nebo více položek ze seznamu voleb. Podívejte se také na combobox a seznam">
 <!ENTITY listitemRole.label "Samostatná položka v seznamu nebo adresáři">
-<!ENTITY logRole.label "Typ živé oblasti, kam jsou přidávány nové infromace a staré mohou zmizet. Podívejte se také na marquee">
+<!ENTITY logRole.label "Typ živé oblasti, kam jsou přidávány nové informace a staré mohou zmizet. Podívejte se také na marquee">
 <!ENTITY mainRole.label "Hlavní obsah dokumentu">
 <!ENTITY marqueeRole.label "Typ živé oblasti, kde se často mění nezákladní informace. Podívejte se také na záznam (log)">
 <!ENTITY mathRole.label "Obsah představující matematický výraz">
@@ -39,13 +39,13 @@
 <!ENTITY menubarRole.label "Nabídka, která obvykle zůstává viditelná a je prezentována vodorovně">
 <!ENTITY menuitemRole.label "Možnost ve skupině voleb obsažené v menu">
 <!ENTITY menuitemcheckboxRole.label "Zaškrtávací položka menu, která má tři možné hodnoty: true, false, nebo mixed">
-<!ENTITY menuitemradioRole.label "Zaškrtávací položky menu, které umožnují vybrat jen jednu z nich">
+<!ENTITY menuitemradioRole.label "Zaškrtávací položky menu, které umožňují vybrat jen jednu z nich">
 <!ENTITY navigationRole.label "Soubor navigačních prvků (obvykle odkazů) pro navigaci dokumentem nebo souvisejícími dokumenty">
 <!ENTITY noteRole.label "Oblast, jejíž obsah je v závorkách nebo je vedlejším obsahem zdroje">
 <!ENTITY optionRole.label "Volitelná položka v seznamu výběru">
 <!ENTITY presentationRole.label "Element, jehož implicitní funkce nebude mapována pro dostupnost přes API">
 <!ENTITY progressbarRole.label "Element zobrazující průběh stavu úkolu, který trvá delší dobu">
-<!ENTITY radioRole.label "Zaškrtávací položky skupiny, které umožnují vybrat jen jednu z nich">
+<!ENTITY radioRole.label "Zaškrtávací položky skupiny, které umožňují vybrat jen jednu z nich">
 <!ENTITY radiogroupRole.label "Skupina zaškrtávacích položek pro jeden výběr">
 <!ENTITY rangeRole.label "Vstup reprezentující rozsah hodnot, které může zvolit uživatel">
 <!ENTITY regionRole.label "Velké části webové stránky nebo dokumentu, které autor považuje za důležité aby byly zahrnuty do shrnutí nebo obsahu, například oblast obsahující živé sportovní statistiky">
