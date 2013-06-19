@@ -476,3 +476,5 @@
 <!ENTITY justifyContent.label "Content justification:">
 <!ENTITY alignContent.label "Content alignment:">
 <!ENTITY autoBoxAlign.label "Automaticky">
+
+<!ENTITY fontsSectionHeader.label "Font Features">
