@@ -1,0 +1,5 @@
+<!ENTITY selector.label "Selector">
+<!ENTITY cssSelector.label "CSS Selector:">
+<!ENTITY xpathSelector.label "XPath Selector:">
+
+<!ENTITY magicButton.label "Magic button">
