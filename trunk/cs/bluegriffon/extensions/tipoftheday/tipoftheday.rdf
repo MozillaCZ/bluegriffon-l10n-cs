@@ -84,6 +84,12 @@
     </item>
 
     <item>
+      <title>…you can revert to a previously saved version of the currently edited document?</title>
+      <description>Righ-click (context-click on Mac OS X) on the document's tab
+                    and select the Revert menu.</description>
+    </item>
+
+    <item>
       <title>…můžete publikovat stránky přímo z &brandShortName;</title>
       <description>Nejdříve nainstalujte volný doplněk FireFTP a nastavte jej.
                   Poté bude dostupný z nabídky Nástroje. </description>
