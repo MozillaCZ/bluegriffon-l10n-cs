@@ -14,3 +14,4 @@
 <!ENTITY close.label "Zavřít">
 <!ENTITY editMenu.label "Upravit">
 <!ENTITY styleCode.label "Kód">
+<!ENTITY isStylesheetEnabled.label "Povoleno">
