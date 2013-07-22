@@ -62,3 +62,15 @@
 
 <!ENTITY closeOtherSections.label "Zavřít všechny ostatní sekce">
 <!ENTITY closeAllSections.label "Zavřít všechny sekce">
+
+<!ENTITY annotatorsRefSectionHeader.label "ITS Tools Annotation">
+<!ENTITY dataCategory.col "Data category">
+<!ENTITY processorIRI.col "Processor IRI">
+<!ENTITY addAnnotatorsRefButton.tooltip "Add a reference">
+<!ENTITY deleteAnnotatorsRefButton.tooltip "Delete a reference">
+<!ENTITY selectAnnotatorRefElement.tooltip "Select reference's owner node">
+
+<!ENTITY dataCategory.label "Data category:">
+<!ENTITY processorIRI.label "Processor IRI:">
+<!ENTITY addAnnotatorsRefCancel.label "Cancel">
+<!ENTITY addAnnotatorsRefOK.label "Add reference">
