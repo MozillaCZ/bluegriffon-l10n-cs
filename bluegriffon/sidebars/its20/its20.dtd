@@ -74,3 +74,4 @@
 <!ENTITY processorIRI.label "Processor IRI:">
 <!ENTITY addAnnotatorsRefCancel.label "Cancel">
 <!ENTITY addAnnotatorsRefOK.label "Add reference">
+<!ENTITY annotatorsRefWarning.label "An annotation reference for the 'terminology' category is missing">
