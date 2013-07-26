@@ -1,9 +1,9 @@
-<!ENTITY window.title "Create or edit a Localization Note rule">
+<!ENTITY window.title "Vytvořit nebo upravit pravidlo pro poznámku k překladu">
 
-<!ENTITY description.label "Description">
-<!ENTITY alert.label "Alert">
+<!ENTITY description.label "Popis">
+<!ENTITY alert.label "Upozornění">
 
-<!ENTITY locNote.label "Localization Note:">
-<!ENTITY locNotePointer.label "Relative selector to the localization note:">
-<!ENTITY locNoteRef.label "IRI referring to the localization note:">
-<!ENTITY locNoteRefPointer.label "Relative selector to a node holding an IRI referring to the localization note:">
+<!ENTITY locNote.label "Poznámka k překladu:">
+<!ENTITY locNotePointer.label "Relativní selector na poznámku k překladu:">
+<!ENTITY locNoteRef.label "IRI odkazující na poznámku k překladu:">
+<!ENTITY locNoteRefPointer.label "Relativní selector na IRI odkazující na poznámku k překladu:">

@@ -1,9 +1,9 @@
-<!ENTITY window.title "Create or edit a Terminology rule">
+<!ENTITY window.title "Vytvořit nebo upravit pravidlo terminologie">
 
-<!ENTITY yesTerm.label "Yes">
-<!ENTITY noTerm.label "No">
+<!ENTITY yesTerm.label "Ano">
+<!ENTITY noTerm.label "Ne">
 
-<!ENTITY noTermInfo.label "No terminology information">
-<!ENTITY termInfoPointer.label "Relative selector to the terminology information:">
-<!ENTITY termInfoRef.label "IRI referring to the terminology information:">
-<!ENTITY termInfoRefPointer.label "Relative selector to a node holding an IRI referring to the terminology information:">
+<!ENTITY noTermInfo.label "Žádné informace o terminologii">
+<!ENTITY termInfoPointer.label "Relativní selector na informaci o terminologii:">
+<!ENTITY termInfoRef.label "IRI odkazující na informaci o terminologii:">
+<!ENTITY termInfoRefPointer.label "Relativní selector na IRI odkazující na informaci o terminologii:">
