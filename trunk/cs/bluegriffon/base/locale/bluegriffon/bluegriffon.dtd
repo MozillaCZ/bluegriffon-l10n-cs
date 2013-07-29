@@ -506,3 +506,6 @@
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY encapsulate.tooltip "Zapouzdřit výběr do inline elementu (výchozí je span)">
+
+<!ENTITY deleteCmd.key "D">
+<!ENTITY selectAllCmd.key "A">
